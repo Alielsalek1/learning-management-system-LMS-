@@ -14,9 +14,6 @@ The LMS (Learning Management System) is a web-based platform for managing and or
   - [Bonus Features](#bonus-features)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
