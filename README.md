@@ -95,9 +95,9 @@ The LMS (Learning Management System) is a web-based platform for managing and or
 
 ### Steps to Install
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repository-name.git
-   ```
+```bash
+git clone https://github.com/your-repository-name.git
+```
 2. Build the Project:
 To build and run the project using Gradle, you can use the following commands:
 ```bash
